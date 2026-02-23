@@ -77,9 +77,9 @@
 - **Data Storytelling**: Adept at translating complex data analysis results into clear, actionable business insights.
 
 ###  Personal Interests
-1、Piano - Grade 8 (Chinese Musicians' Association, 2016)
-2、Badminton (Participated in Nanshan District Secondary School Badminton Invitational, 2015)
-3、Archery (Member of The University of Sydney Archery Club, 2022-2025)
+1、Piano - Grade 8 (Chinese Musicians' Association, 2016)  
+2、Badminton (Participated in Nanshan District Secondary School Badminton Invitational, 2015)  
+3、Archery (Member of The University of Sydney Archery Club, 2022-2025)  
 </details>
 
 ---
