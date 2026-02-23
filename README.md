@@ -35,7 +35,7 @@
 ---
 
 <details>
-<summary><b> Click to expand English Profile / 
+<summary><b> Click to expand English Profile </b> </summary>
 <br/>
 
 # Hello, I'm Jiayu Xiong
