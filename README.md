@@ -75,13 +75,3 @@
 </details>
 
 ---
-
-#### 技术能力与活跃度 / Skills & Activity
-
-| 类别 | 技术栈 |
-| :--- | :--- |
-| **编程语言** | `Python` `SQL` `R` `C` |
-| **框架与工具** | `PyTorch` `Transformers` `Pandas` `Jupyter` |
-| **项目活跃度** | [![Jiayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bearplusfish&show_icons=true&theme=default&hide_border=true)](https://github.com/bearplusfish) |
-
-> *注：若上方统计图加载缓慢，可直接访问我的 [仓库列表](https://github.com/bearplusfish?tab=repositories) 查看项目提交记录。*
