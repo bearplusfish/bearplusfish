@@ -6,31 +6,31 @@
 </p>
 
 ### 💫 关于我 / About Me
-- [cite_start]🎓 **教育背景**: 悉尼大学 **数字健康与数据科学硕士** (2026年1月毕业) [cite: 70, 71, 72]
-- [cite_start]🔭 **研究方向**: 医疗文本自动编码 (ICD)、机器学习预测建模、数据可视化汇报 [cite: 5, 51, 63]
-- [cite_start]🌱 **技术栈**: 熟练使用 **Python (PyTorch/Transformers)**, **SQL**, **R** [cite: 8, 9, 10, 53]
-- [cite_start]💬 **联系方式**: bearplusfishmail@qq.com [cite: 3]
+- 🎓 **教育背景**: 悉尼大学 **数字健康与数据科学硕士** (2026年1月毕业)
+- 🔭 **研究方向**: 医疗文本自动编码 (ICD)、机器学习预测建模、数据分析汇报
+- 🌱 **技术栈**: 熟练使用 **Python (PyTorch/Transformers)**, **SQL**, **R**
+- 💬 **联系方式**: bearplusfishmail@qq.com | +86 13682350330
 
 ---
 
 ### 📓 精选 Jupyter Notebook 项目 / Featured Projects
 
-#### [cite_start]1. 医疗文本 ICD 自动编码复现 (Transformer-based) [cite: 51]
-- [cite_start]**项目概述**: 复现极端多标签文本分类任务，实现从英文 (MIMIC-III) 到西班牙语 (CodiEsp-D) 的迁移学习 [cite: 54]。
-- [cite_start]**核心成果**: 模型 Macro-AUC 达到 **0.847**，相较 Baseline 提升 **6.8%**，增强了对罕见病症的预测能力 。
-- 👉 [查看代码链接](此处粘贴你GitHub文件的URL)
+#### 1. 医疗文本 ICD 自动编码复现 (Transformer-based)
+- **项目描述**: 基于 Transformer 的极端多标签文本分类任务，实现从英文到西班牙语数据集的迁移。
+- **核心成果**: 模型 Macro-AUC 达到 **0.847**，相较 Baseline 提升 **6.8%**，有效增强了对罕见病症的预测能力。
+- 👉 [查看代码链接](此处粘贴你相应的.ipynb文件网址)
 
-#### [cite_start]2. 脑卒中风险预测及高危人群识别 (Machine Learning) [cite: 63]
-- [cite_start]**项目概述**: 基于 Kaggle 数据集，利用 **R 语言** 进行数据清洗、PCA 分析与随机森林建模 [cite: 65, 66]。
-- [cite_start]**核心成果**: 精确定位卒中风险随年龄变化的快速上升点，并为公共卫生决策提供数据支持建议 [cite: 68]。
-- 👉 [查看代码链接](此处粘贴你GitHub文件的URL)
+#### 2. 脑卒中风险预测及高危人群识别 (Machine Learning)
+- **项目描述**: 使用 **R 语言** 进行数据清洗、PCA 分析与随机森林建模。
+- **核心成果**: 精确分析卒中风险随年龄变化的峰值点，为公共卫生部门提供策略性干预建议。
+- 👉 [查看代码链接](此处粘贴你相应的.ipynb文件网址)
 
 ---
 
-### [cite_start]🛠 专业领域 / Professional Skills [cite: 7]
-- [cite_start]**数据分析**: 数据提取、清洗、分析及建模自动化 [cite: 9]。
-- [cite_start]**数据叙事**: 将复杂结果转化为结构化、可视化的业务洞察 [cite: 14, 15]。
-- [cite_start]**多系协作**: 具备跨部门沟通能力，协同推进数据驱动的项目落地 [cite: 16, 17]。
+### 🛠 专业领域 / Professional Skills
+- **编程分析**: 熟练使用 Python、SQL 进行数据清洗、建模及自动化处理。
+- **跨部门协作**: 具备良好的沟通能力，能与产品、技术等团队协同推进项目。
+- **数据叙事**: 擅长将复杂的数据分析结果转化为清晰的业务洞察。
 
 ---
 
@@ -38,9 +38,9 @@
 <summary><b>🌍 Click to expand English Profile / 点击展开英文版</b></summary>
 <br/>
 
-- [cite_start]**Summary**: Meticulous Data Analyst with expertise in Python/SQL and a focus on healthcare data[cite: 6, 9].
-- [cite_start]**Highlights**: Level 8 Piano certification, USYD Archery Club member[cite: 85, 87].
-- [cite_start]**Education**: Bachelor of Science in Computer Science (Minor in Data Science)[cite: 75, 76, 77].
+- **Education**: Master of Digital Health & Data Science / B.S. in Computer Science (USYD).
+- **Competencies**: Predictive modeling, structured communication (IELTS 6.5), and multi-tasking.
+- **Interests**: Piano (Level 8), Archery (USYD Club), and Badminton.
 
 </details>
 
