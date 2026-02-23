@@ -76,7 +76,8 @@
 
 ---
 
-### 📊 我的统计数据 / Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bearplusfish&show_icons=true&theme=radical&hide_border=true" />
-</p>
+#### 数据统计 / GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bearplusfish&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bearplusfish&layout=compact&theme=default&hide_border=true)
