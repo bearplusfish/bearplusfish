@@ -32,6 +32,10 @@
 - **跨部门协作**: 具备良好的沟通能力，能与产品、技术等团队协同推进项目。
 - **数据叙事**: 擅长将复杂的数据分析结果转化为清晰的业务洞察。
 
+###  个人爱好
+1、钢琴-八级（中国音乐家学会，2016 年） 
+2、羽毛球（参加南山区中学生羽毛球邀请赛，2015 年） 
+3、射箭（悉尼大学箭术俱乐部成员，2022-2025 年）
 ---
 
 <details>
@@ -72,6 +76,10 @@
 - **Cross-functional Collaboration**: Strong communication skills with a proven ability to collaborate with product and technical teams to drive projects forward.
 - **Data Storytelling**: Adept at translating complex data analysis results into clear, actionable business insights.
 
+###  Personal Interests
+1、Piano - Grade 8 (Chinese Musicians' Association, 2016)
+2、Badminton (Participated in Nanshan District Secondary School Badminton Invitational, 2015)
+3、Archery (Member of The University of Sydney Archery Club, 2022-2025)
 </details>
 
 ---
