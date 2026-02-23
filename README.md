@@ -18,12 +18,12 @@
 #### 1. 医疗文本 ICD 自动编码复现 (Transformer-based)
 - **项目描述**: 基于 Transformer 的极端多标签文本分类任务，实现从英文到西班牙语数据集的迁移。
 - **核心成果**: 模型 Macro-AUC 达到 **0.847**，相较 Baseline 提升 **6.8%**，有效增强了对罕见病症的预测能力。
--  [查看代码链接](https://github.com/bearplusfish/-/tree/main/xr-lat-main)
+-  [成果展示](https://github.com/bearplusfish/-/tree/main/xr-lat-main)
 
 #### 2. 脑卒中风险预测及高危人群识别 (Machine Learning)
 - **项目描述**: 使用 **R 语言** 进行数据清洗、PCA 分析与随机森林建模。
 - **核心成果**: 精确分析卒中风险随年龄变化的峰值点，为公共卫生部门提供策略性干预建议。
--  [查看代码链接](brain_stroke)
+-  [成果展示](https://github.com/bearplusfish/-/blob/main/brain_stroke/A3/HTIN5006-Assignment%203.pdf)
 
 ---
 
