@@ -38,9 +38,7 @@
 <summary><b> Click to expand English Profile / 点击展开英文版</b></summary>
 <br/>
 
-- **Education**: Master of Digital Health & Data Science / B.S. in Computer Science (USYD).
-- **Competencies**: Predictive modeling, structured communication (IELTS 6.5), and multi-tasking.
-- **Interests**: Piano (Level 8), Archery (USYD Club), and Badminton.
+
 
 </details>
 
