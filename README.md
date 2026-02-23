@@ -60,7 +60,7 @@
 - **Core Results**: Achieved a Macro-AUC of 0.847, a 6.8% improvement over the Baseline, effectively enhancing prediction capabilities for rare diseases.
 -  [Showcase](https://github.com/bearplusfish/-/tree/main/xr-lat-main)
 
-#### 2. 脑卒中风险预测及高危人群识别 (Machine Learning)
+#### 2. Stroke risk prediction and identification of high-risk populations (Machine Learning)
 - **Project Description**: Performed data cleaning, PCA analysis, and Random Forest modeling using **R**.
 - **Core Results**: Precisely analyzed the peak stroke risk across different age groups, providing strategic intervention recommendations for public health departments.
 -  [Showcase](https://github.com/bearplusfish/-/blob/main/brain_stroke/A3/HTIN5006-Assignment%203.pdf)
